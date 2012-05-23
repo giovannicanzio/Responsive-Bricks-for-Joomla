@@ -20,5 +20,6 @@ Giovanni Canzio (giovanni.canzio@gmail.com)
 
 
 ## How to install the stuff. 
-Install it as used to do with any other Joomla Theme.
+First of all put everything in a folder named 'responsivebricks', then zip;
+finally install it as used to do with any other Joomla Theme.
 

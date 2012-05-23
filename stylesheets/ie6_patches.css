@@ -1,0 +1,19 @@
+.container .one                     { width: 40px;  }
+.container .two                     { width: 100px; }
+.container .three                   { width: 160px; }
+.container .four                    { width: 220px; }
+.container .five                    { width: 280px; }
+.container .six                     { width: 340px; }
+.container .seven                   { width: 400px; }
+.container .eight                   { width: 460px; }
+.container .nine                    { width: 520px; }
+.container .ten                     { width: 580px; }
+.container .eleven                  { width: 640px; }
+.container .twelve                  { width: 700px; }
+.container .thirteen                { width: 760px; }
+.container .fourteen                { width: 820px; }
+.container .fifteen                 { width: 880px; }
+.container .sixteen                 { width: 940px; }
+
+.container .one-third                { width: 300px; }
+.container .two-thirds               { width: 620px; }
