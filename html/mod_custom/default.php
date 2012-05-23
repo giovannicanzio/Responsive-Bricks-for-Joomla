@@ -16,8 +16,6 @@
 #    GNU General Public License for more details.
 # 
 
-?>
-
 // no direct access
 defined('_JEXEC') or die;
 ?>
